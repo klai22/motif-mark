@@ -29,7 +29,7 @@ cd motif-mark
 
 ##### DATA OUTPUT 
 * Whatever prefix your ```.fasta``` file is labled with will carry over into the output ```.png``` holding the motif visualization. 
-* Ex: If your .fasta file is labeled ```Figure_1.fasta```, the output will be labeled ```Figure_1.png```. 
+* Ex: If your ```.fasta``` file is labeled ```Figure_1.fasta```, the output will be labeled ```Figure_1.png```. 
 
 
 ### Goals
