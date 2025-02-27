@@ -24,7 +24,7 @@ cd motif-mark
 ./motif-mark-oop.py -f "/path/to/sequences_file.fasta" -m "/path/to/motifs_file.txt"
 ```
 ##### DATA INPUT REQUIREMENTS 
-* ```-f```: Input Fasta File: ```sequences_file.fasta`` - holds sequences, each denoted w/ ```>``` as the sequence header. 
+* ```-f```: Input Fasta File: ```sequences_file.fasta``` - holds sequences, each denoted w/ ```>``` as the sequence header. 
 * ```-m```: Input Motifs File: ```motifs_file.txt``` - holds motif sequences, separated by ```/n``` s. 
 
 ##### DATA OUTPUT 
